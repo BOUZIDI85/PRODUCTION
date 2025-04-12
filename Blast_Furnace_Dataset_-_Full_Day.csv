@@ -1,4 +1,4 @@
-Timestamp,Temp (?øC),Pressure (bar),Coke Flow (kg/min),Iron Ore (kg/min),CO2 (%),Energy (MW)
+Timestamp,Temp ,Pressure ,Coke Flow ,Iron Ore ,CO2 ,Energy 
 0:00:00,1504,2.7,495,1229,13,120
 0:10:00,1492,2.5,482,1202,12.9,120
 0:20:00,1502,2.6,510,1216,12.6,120
